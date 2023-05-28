@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fullscreen Bock Screen",
+    "description": "Gote-Supporterにあったフルスクリーンの本画面です。\nby YukaYama0311",
+    "version": [ 1, 0, 0 ],
+    "uuid": "d0871af4-bb9b-4be2-ae94-3ec5d5fe2868",
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "",
+      "version": [ 1, 0, 0 ],
+      "uuid": "400861c6-0aa0-483a-a449-45ad313ba60c"
+    }
+  ]
+}
